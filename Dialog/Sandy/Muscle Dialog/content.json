@@ -1,0 +1,28 @@
+{
+"Format": "1.9",
+"Changes": [
+//Muscle Dialogue
+    //Sandy
+    {
+        "Action": "EditData",
+        "Target": "Characters/Dialogue/Sandy",
+        "Entries": { 
+	"Mon": "Hello hello, sweetie!#$b#I'm so glad that the bus is back in service.#$b#Without customers, there was nothing to do out here but work out and eat...$2#$e#Not that I mind the results, you see *giggle*.$1#$b#Now that you're here, you must want to test your might in the Skull Cavern, yes?#$b#You'll need a key to get in there, but I hear riches await within.#$b#Ah, but don't forget to come visit your friend Sandy and buy some seeds!#$b#$1",
+        "Tue": "You can find coconuts and cactus fruits outside.#$b#$They're so refreshing after a long day of pumping iron~!$1#$b#Feel free to take as many as you can find, I don't mind sharing.",
+        "Wed": "Why hello there! If you see my friend Emily in town, could you tell her I have another commission for her?#$b#She made this dress you see, and it's fabulous!$1#$b#But If I keep on ppacking on muscle at this rate, I'll need a new one.$2#$b#Do tell her, please? Thanks, sweetie. *giggle*$1",
+        "Thu": "That shady-looking guy in the back? I'm not supposed to talk about it.#$e#Anyway... what's the weather like in the valley?",
+        "Fri": "You wouldn't have much luck farming out here, honey.#$e#Well, unless you were a cactus farmer.$h",
+        "Sat": "Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!#$e#*whisper* Did I sound professional?$h#$e#Make sure to check out our seasonal seed selection.#$e#You look really thirsty. Here, have a taste of this ice cold milk. [184]#$e#Tasty, huh?$h",
+        "Sun": "It's always sunny here, even in winter!#$e#Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.$s",
+        "Thu2": "I'm so glad you come to see me all the way out here.#$b#I've already wrapped up my workout for the day, and now I'm bored.$2#$b#Tell me a story from the valley.$1",
+        "Thu4": "Hey... I think I can trust you. You can keep a secret, right?#$b#*whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent and bring me all the steroids I...#$b#*ahem* Let's not worry about that.#$b#The point is, I don't ask any questions.#$e#SOOOOoo! How's that Stardew Valley weather right now?",
+        "Fri4": "My name's not really Sandy, you know. It's just good for business.#$e#But everyone calls me Sandy anyway, so I've taken to using it.#$b#Plus, since I started working out, it felt like a new chapter in my life.#$b#So a new name to go with it was a welcome change.$1",
+        "Wed8": "Isn't it expensive, coming to the desert so often like you do?#$e#You don't do it just to come see little muscle-y me, do you? *giggle*$h#$b#That's so sweet, I could just keep you here all to myself...#$b#But I'm sure you have a life in the valley and I'd hate to take you from it.#$b#I'll just look forward to our next rendezvous...$0",
+        "Sun8": "Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm...#$e#Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him.",
+        "Wed10": "Hey, it's @! I'm glad to see you, sweetie. I was wondering when I'd get to see you again.#$e#If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.$s#$e#You'll just have to visit me more often so I don't miss you too much.$h",
+        "Tue10": "Hi!~ Stay as long as you like.#$e#The air conditioning sure feels nice, doesn't it?"
+	},           
+    },
+
+    ]
+}

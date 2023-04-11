@@ -1,0 +1,13 @@
+{
+   "Name": "Haley Muscle Dialogue",
+   "Author": "MGChaser",
+   "Version": "1.0.3",
+   "Description": "Adds muscle dialogue for Haley.",
+   "UniqueID": "Haley.muscle.dialog",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "Nexus:n/a" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.0.0" // optional
+   }
+}

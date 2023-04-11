@@ -1,0 +1,13 @@
+{
+   "Name": "Muscle Events.",
+   "Author": "MGChaser",
+   "Version": "1.0.0",
+   "Description": "Adds several muscle related events.",
+   "UniqueID": "muscle.event.dialog",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "Nexus:n/a" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.0.0" // optional
+   }
+}

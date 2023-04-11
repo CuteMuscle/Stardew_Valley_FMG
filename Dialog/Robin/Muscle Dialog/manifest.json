@@ -1,0 +1,12 @@
+{
+   "Name": "robin muscle dialog expansion",
+   "Author": "MGChaser",
+   "Description": "changes dialog to an FMG experience",
+   "Version": "1.0",
+   "UniqueID": "robin.muscle.dialog",
+   "MinimumApiVersion": "2.5",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+   "UpdateKeys": [ "NA" ],
+}

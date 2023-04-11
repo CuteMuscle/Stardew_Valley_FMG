@@ -1,0 +1,40 @@
+{
+"Format": "1.0.0",
+"Changes": [
+    {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/rainy",
+    "Entries": {
+        "Abigail": "I love standing in the rain after an intense workout.$0#$b#It's a great way to cool off, but don't I also look amazing when I'm all wet?$1#$b#You totally agree, right?$13#$b#%Abigail performs a few poses for you to prove her point.#$b#%She isn't wrong, her glistening skin does look amazing.#$b#%Each and every one of her bulging muscles look that much more pronounced.#$b#%You try to keep your cool, but you find it hard when faces with such an incredible sight.#$b#@, you still with me?$10#$b#Don't worry, I'm just messing with you *giggle*.$1#$e#Actually, truth be told the rain kind of puts a damper on my plans.$3#$B#I found this old hardwood log in the forest.#$b#I was going to see if I could bench press it...$8#$b#Oh well, maybe another day.$0",
+        "Robin": "The rain doesn't stop me from getting a job done!$h#$e#Although soggy wood isn't a joy to work with.$s",
+        "Demetrius": "Greetings. Stay inside if you want to keep warm.",
+        "Maru": "I was able to get a batch of growth formula ready for Haley despite all this rain.#4b#She's been really pushing for it, so I made a little extra.",
+        "Sebastian": "If you're lucky, you might see a frog in this weather.",
+        "Linus": "A warm rain is a pleasant way to get clean.$h",
+        "Pierre": "Most people stay indoors on days like this... It's not good for business.$s",
+        "Caroline": "All this rain means Abigail will be staying in to work out...#$b#Which means clanging and banging those weights around...",
+        "Alex": "Hmmph. This is not good weather for sports.$s#$e#Oh well, I can always lift weights inside.$h",
+        "George": "It's awful cold, isn't it? What a rotten day.",
+        "Evelyn": "When I woke up I heard dripping from somewhere... I think the roof might be leaking.$s#$e#In the old days, George would've scampered right up and fixed it... *sigh*$s",
+        "Lewis": "Hi there, @. Taking a break?#$e#I hope the river doesn't overflow...$s",
+        "Clint": "Today would be a good day to explore the mines... Who knows, you might find some rare ores.",
+        "Penny": "%You find Penny, who is all wet from the rain.#$b#%Her top is soaked through, and clinging to her curves.#$b#Her fair skin has a slight sheen from the water, accentuating all of her her bulges and swells.#$b#A good rain can be really refreshing after a hard day of training.#$b#Sometimes I like to sit outside and let my mind wander and the rain.#$b#It's a repreive for my mind AND body!$1#$e#%You notice that you can slightly see through Penny's soaking wet top.#$b#%It's then that you realize Penny isn't wearing anything underneath. You begin to blush and instinctually avert your eyes so as not to embarass Penny.#$b#What's up, @? Your face got red all of a sudden...#$b#...$2#$b#*GASP*!!!$8#$b#%Penny quickly covers her chest with her arms, her face flush with embarassment.#$b#Gosh I-I'm so sorry, I um have to go!$8",
+        "Pam": "If Penny thinks I'm gonna let her slack off 'cause of a little rain...$4#$b#She's got another thing comin'!$3",
+        "Emily": "%You find Emily performing what seems to be an advanced yoga, or possibly contortionist pose.#$b#%She's bent all the way backward, forming an arch with her stomach facing upward, her hands firmly planted on the ground behind her ankles.#$b#%All of the muscles that make up her tight core are on full display, and dispite being stretched so far, still look strong and firm.#$b#%Emily notices your presence and lifts her body into a headstand before returning her feet to the ground to stand back up.#4b#*phew* Hello, @!$1#$b#On rainy days like today, I like to light some incense, and meditate with some stretching.$0#$b#The pitter-patter of the rain helps me find my focus.$0#$b#You can't have a healthy body without a healthy mind you know!$1#$b#Why don't you join me, @?",
+        "Haley": "%Haley happily bounds towards you, the ground shaking somewhat under her mass.#$b#%Even though you're fammiliar with Haley, you're instinctually worried for your well being at the sight.#$b#%Haley stops to look you over, then her expression sours.#$b#Ugh, @.$11#$b#I figured you were here to bring an umbrella for your goddess...$3#$b#But all you're doing is tracking mud!$5#$b#UGH! Just forget it, I'm in a bad mood now.#$e#...$2#$b#Actually, I'll let you make it up to me.#$b#Since I'm stuck inside today, I was thinking of going over my new posing routine...$8#$b#You're going to sit there like a good little servant...$10#$b#And critique my routine...$6#$b#...And I'd better like what I hear...$1#$b#%With a gulp, you stand back to observe.#$b#%Haley begins with a few simple flexes to get her muscles pumped up, each flex looking larger than the last.#$b#%Soon her muscles are covered with thick veins that snake and splinter down her limbs.#$b#%The sight is absolutely incredible, and just a bit terrifying.#$b#%Haley finishes her routine with a mind bending crab flex that causes her massive pecs to rise and ripple, nearly brushing her chin.#$b#%With impressive control she is able to continuously send waves of ripples up and down her engorged pecs.#$b#%You realize your mouth has been hanging open this whole time, and your throat is bone dry.#$b#...Well, how did you like it?$6",
+        "Jodi": "Did you wipe your boots off before coming in? Sorry... I just cleaned the floor.#$e#But you're always welcome in here! Heh.$h",
+        "Sam": "Rain muffles sound, so I can play my guitar louder without my Mom getting mad. Hehe.$h",
+        "Leah": "I'm not a fan of the rain.#$b#I try to stay as lean as possible, and keep off water weight when able.#$b#All rain does is remind me I can't drink much water...",
+        "Shane": "Hmm... this weather makes me thirsty.$s",
+        "Marnie": "Hi @. You look like you're soaked...you poor thing!$h",
+        "Elliott": "Sometimes when I lay in bed I can hear a distant foghorn cut through the rain.#$b#But when I look out the window I see only a curtain of gray.",
+        "Gus": "There's nothing like a glass of dry red wine on a day like this, huh?#$e#I love my job. Hehehe.",
+        "Dwarf": "Rain... It's almost mythical to us. Some of us dwarves live our entire lives without ever experiencing it.",
+        "Wizard": "Stormy days are the only time I can commune with certain elementals.#$e#I don't expect you to understand.",
+        "Harvey": "Hi @! Er... Read anything interesting in the library lately?#$e#Heh. Well, um... I'll see you around then?$u",
+        "Sandy": "I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s",
+        "Krobus": "Ah, the sewers are flowing quickly today. It'll get nice and humid in here... Just how I like it."
+    }
+}
+]
+}

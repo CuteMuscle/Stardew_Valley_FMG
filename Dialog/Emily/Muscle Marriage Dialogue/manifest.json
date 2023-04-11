@@ -1,0 +1,13 @@
+{
+   "Name": "Emily FMG Marriage Dialog",
+   "Author": "MGChaser",
+   "Version": "1.0",
+   "Description": "Adds muscle dialogue for Emily after marriage.",
+   "UniqueID": "emily.muscle.marriage.dialog",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "Nexus:NA" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.0.0" // optional
+   }
+}

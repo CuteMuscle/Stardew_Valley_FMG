@@ -1,0 +1,13 @@
+{
+   "Name": "Haley Muscle Marriage Dialogue",
+   "Author": "MGChaser",
+   "Version": "1.0",
+   "Description": "Adds muscle marriage dialogue for Hayley.",
+   "UniqueID": "hailey.muscle.marriage",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "n/a" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.0.0" // optional
+   }
+}

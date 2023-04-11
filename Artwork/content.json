@@ -1,0 +1,80 @@
+{
+"Format": "1.9",
+"Changes": [
+//Portraits
+    {
+        "Action": "Load",
+        "Target": "Portraits/Haley",
+        "FromFile": "assets/Portraits/Haley.png"
+    },
+	{
+        "Action": "EditImage",
+        "Target": "Portraits/Haley",
+        "FromFile": "assets/Portraits/Haley2.png",
+		"When": {
+		"Year": "2", "Relationship:Haley": "Married"
+		}
+	},   
+    {
+        "Action": "Load",
+        "Target": "Portraits/Abigail",
+        "FromFile": "assets/Portraits/Abigail.png"
+    },
+	{
+        "Action": "EditImage",
+        "Target": "Portraits/Abigail",
+        "FromFile": "assets/Portraits/Abigail2.png",
+		"When": {
+		"Year": "2", "Relationship:Abigail": "Married"
+		}
+	},
+    {
+        "Action": "Load",
+        "Target": "Portraits/Penny",
+        "FromFile": "assets/Portraits/Penny.png",
+		
+	},
+	{
+        "Action": "EditImage",
+        "Target": "Portraits/Penny",
+        "FromFile": "assets/Portraits/Penny2.png",
+		"When": {
+		"Year": "2", "Relationship:Penny": "Married"
+		}
+	},
+    {
+        "Action": "Load",
+        "Target": "Portraits/Emily",
+        "FromFile": "assets/Portraits/Emily.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Portraits/Robin",
+        "FromFile": "assets/Portraits/Robin.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Portraits/Sandy",
+        "FromFile": "assets/Portraits/Sandy.png"
+    },
+    
+//Sprites
+    {
+        "Action": "Load",
+        "Target": "Characters/Haley",
+        "FromFile": "assets/Characters/Haley.png"
+    },
+   
+    {
+        "Action": "Load",
+        "Target": "Characters/Abigail",
+        "FromFile": "assets/Characters/Abigail.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/Penny",
+        "FromFile": "assets/Characters/Penny.png"
+    },
+   
+    ]
+}

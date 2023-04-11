@@ -1,0 +1,12 @@
+{
+   "Name": "Stardew FMG Expansion",
+   "Author": "MGChaser",
+   "Description": "Changes sprites and character portraits to female marriage candidates muscular.",
+   "Version": "1.0",
+   "UniqueID": "STARDEW_FMG_GIRLFRIEND",
+   "MinimumApiVersion": "2.5",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+   "UpdateKeys": [ "NA" ],
+}
